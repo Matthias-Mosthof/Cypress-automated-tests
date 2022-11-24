@@ -1,5 +1,10 @@
 # Todo App
 
-Minimal todo app example.
+Automated tests for my Todo-App:
 
-PS: Keep the erros that you may find 😅
+Created test cases for:
+
+- Input of new todo
+- Filters
+- Delete done todos
+- Duplicate check
