@@ -1,6 +1,4 @@
-# Todo App
-
-Automated tests for my Todo-App:
+# Automated tests for Todo-App with cypress
 
 Created test cases for:
 
